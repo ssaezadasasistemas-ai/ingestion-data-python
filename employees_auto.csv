@@ -1,0 +1,4 @@
+id,name,salary,created_at,active
+1,Alice,50000,2024-01-10 09:30:00,true
+2,Bob,45000,2024-02-05 10:15:00,false
+3,Charlie,55000,2024-03-20 08:45:00,true

@@ -1,0 +1,17 @@
+<employees>
+    <employee>
+        <empid>1</empid>
+        <name>John</name>
+        <phone>5123</phone>
+    </employee>
+    <employee>
+        <empid>2</empid>
+        <name>Jane</name>
+        <phone>5124</phone>
+    </employee>
+    <employee>
+        <empid>3</empid>
+        <name>Doe</name>
+        <phone>5678</phone>
+    </employee>
+</employees>
